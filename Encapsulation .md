@@ -4,8 +4,6 @@
 
 To implement **Encapsulation** in Python by defining a class `Rectangle` with **private member variables** `__length` and `__breadth`.
 
----
-
 ## 🧠 ALGORITHM
 
 1. **Define the Class**:
@@ -19,8 +17,6 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 
 4. **Instantiate the Object**:
    - Create an object of the `Rectangle` class to trigger the constructor.
-
----
 
 ## 💻 Program
 ```
